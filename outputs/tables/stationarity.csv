@@ -1,0 +1,6 @@
+series,n,ADF stat,ADF p,KPSS stat,KPSS p,verdict
+level,3290,-8.949,0.0,0.038,0.1,stationary
+log1p,3290,-8.073,0.0,0.271,0.1,stationary
+diff_1,3289,-16.953,0.0,0.078,0.1,stationary
+seasonal_diff_24,3266,-13.593,0.0,0.009,0.1,stationary
+log1p + seasonal_diff_24,3266,-12.92,0.0,0.011,0.1,stationary

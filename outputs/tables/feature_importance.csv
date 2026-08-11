@@ -1,0 +1,66 @@
+feature,importance,group
+hour,9.740199079414122,calendar
+hour_sin,2.2694707218076773,calendar
+hour_cos,2.018179292932102,calendar
+lag_24,1.600468422641299,target lags
+RH_1,1.5547880971308472,indoor sensors
+RH_3,1.3908262226417165,indoor sensors
+lag_169,1.275135617088408,target lags
+lag_48,1.0605266633082706,target lags
+roll_mean_3,0.5958556912837778,target rollings
+RH_7,0.5882597850097412,indoor sensors
+dow_sin,0.5499501397240664,calendar
+roll_mean_24,0.5360793201422837,target rollings
+RH_4,0.4778353032319586,indoor sensors
+lag_25,0.35537318977091986,target lags
+lag_26,0.347393416857409,target lags
+lag_96,0.3335704791069304,target lags
+roll_max_24,0.26934315003852305,target rollings
+lag_192,0.22933307007772186,target lags
+RH_2,0.2269253054339771,indoor sensors
+T3,0.21911780996016858,indoor sensors
+RH_9,0.207099036230575,indoor sensors
+roll_std_24,0.2044545770308332,target rollings
+lag_27,0.1571732322969069,target lags
+T8,0.14906265781395972,indoor sensors
+roll_max_3,0.1482320612777343,target rollings
+RH_6,0.12406459063324604,indoor sensors
+roll_min_24,0.1154535701902546,target rollings
+roll_min_48,0.09379638397761739,target rollings
+roll_std_12,0.08986211953912857,target rollings
+roll_min_3,0.07946314380356227,target rollings
+roll_mean_6,0.07934189420266904,target rollings
+RH_out,0.07793016224475338,outdoor weather
+roll_max_12,0.07614452868210009,target rollings
+T_out,0.07093998259958312,outdoor weather
+roll_std_3,0.06100190984997909,target rollings
+roll_max_48,0.05019935728792291,target rollings
+dow_cos,0.04794674182458607,calendar
+roll_max_6,0.04702383417018154,target rollings
+RH_5,0.034864933367332186,indoor sensors
+T6,0.03215833584994528,indoor sensors
+T4,0.01086937808832431,indoor sensors
+roll_std_168,0.003064091528831625,target rollings
+T7,0.002502257362557714,indoor sensors
+dayofweek,0.002249150164936964,calendar
+T9,0.0,indoor sensors
+is_weekend,0.0,calendar
+lag_72,-0.00833918656207402,target lags
+Press_mm_hg,-0.018428609232609007,outdoor weather
+T1,-0.025690821659051722,indoor sensors
+lag_168,-0.02634493258225632,target lags
+roll_max_168,-0.03790932907894131,target rollings
+Windspeed,-0.053827387912815536,outdoor weather
+RH_8,-0.08702771541285585,indoor sensors
+roll_std_48,-0.08962546895883036,target rollings
+roll_min_168,-0.09682892705705655,target rollings
+roll_mean_12,-0.1028342716103225,target rollings
+roll_min_12,-0.11083285983511786,target rollings
+Tdewpoint,-0.12380347066512627,outdoor weather
+roll_mean_168,-0.13189654974197823,target rollings
+T5,-0.16429179091853285,indoor sensors
+Visibility,-0.16679138418580094,outdoor weather
+roll_min_6,-0.17844082278048887,target rollings
+roll_std_6,-0.28897273029618875,target rollings
+roll_mean_48,-0.48986345240797535,target rollings
+T2,-0.5761548639165468,indoor sensors

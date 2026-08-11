@@ -1,0 +1,6 @@
+model,DM,p,verdict
+snaive_daily,0.612,0.5407,not distinguishable
+sarima,-1.019,0.3091,not distinguishable
+ml_true,-1.313,0.19,not distinguishable
+ml_conditional,-0.118,0.9061,not distinguishable
+foundation_PLACEHOLDER,0.612,0.5407,not distinguishable

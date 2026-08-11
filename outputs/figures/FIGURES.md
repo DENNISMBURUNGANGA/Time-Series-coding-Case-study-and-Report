@@ -1,0 +1,41 @@
+# Figure manifest
+
+**Figure 1** - `fig1.png` - report section 3 EDA
+
+> Hourly appliance energy use across the full record, with the 14-day test period shown below.
+
+**Figure 2** - `fig2.png` - report section 3 EDA
+
+> Distribution of appliance energy use, raw and after a log1p transform.
+
+**Figure 3** - `fig3.png` - report section 3 EDA
+
+> Seasonal profiles: hour of day, day of week, and their interaction.
+
+**Figure 4** - `fig4.png` - report section 3 EDA
+
+> ACF and PACF to lag 200. Dashed lines mark the daily (24) and weekly (168) lags.
+
+**Figure 5** - `fig5.png` - report section 3 EDA
+
+> STL decomposition at the daily period, with trend, seasonal and remainder components.
+
+**Figure 6** - `fig6.png` - report section 6 SARIMAX
+
+> SARIMA residual diagnostics: residual series, ACF, distribution and Q-Q plot.
+
+**Figure 7** - `fig7.png` - report section 6 SARIMAX
+
+> SARIMA rolling 24-hour forecasts with 95% intervals. Vertical lines mark forecast origins.
+
+**Figure 8** - `fig8.png` - report section 7 Feature model
+
+> Permutation importance aggregated by feature family, measured as MAE degradation.
+
+**Figure 9** - `fig9.png` - report section 9 Results
+
+> All models against actuals over the test period, with the first three days in detail.
+
+**Figure 10** - `fig10.png` - report section 9 Results
+
+> Mean absolute error by forecast step, showing how accuracy decays across the 24-hour horizon.
